@@ -1,0 +1,6 @@
+.recuadro{
+    display: flex;
+    color: bisque; 
+    margin: 50px;  
+    background: chocolate; 
+}
